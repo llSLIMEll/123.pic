@@ -1,6 +1,6 @@
 {
   GitHubUserURL="https://raw.githubusercontent.com/",
-  GitHubApplicationListURL="https://raw.githubusercontent.com/IgorTimofeev/OpenComputers/master/Applications.txt",
+  GitHubApplicationListURL="https://raw.githubusercontent.com/llSLIMEll/234.pic/blob/master/ZAPUSK.txt",
   ----------------------------------------------------- ТЁТЯ ШЛЮХА --------------------------------------------------------------------------
    {
     name="234.pic",
